@@ -21,7 +21,7 @@ LinkedIn: [linkedin.com/in/rochelle-clarke](https://www.linkedin.com/in/rochelle
 
  Certifications & Training
 
--  CompTIA A+ Core 1 (220-1101) - Passed (Core 2 In Progress)
+-  CompTIA A+ Core 1 (220-1201) - Passed (Core 2 In Progress)
 -  Google IT Support Professional Certificate
 -  Google Cybersecurity Certificate
 -  Harvard CS & Cybersecurity Certificates
