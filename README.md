@@ -1,4 +1,4 @@
- Hi, I'm Rochelle Clarke 👋
+ Hi, I'm Rochelle Clarke 👋🏿
 
 Desktop Support & Helpdesk Technician | St. Thomas, ON
 
